@@ -6,7 +6,7 @@ Visitors book:
 - 2018 Ben Cobley - 24 participants
 - 2019 Ben Cobley and Jordan Kotler - 64 participants 
 - 2020 Ben Cobley and Jordan Kotler - 1 covid
-- 2021 Jordan Kotler and Ben Collis - ~~52 participants and hopefully 0 covids~~ another covid
+- 2021 Jordan Kotler and Ben Collis - 52 participants, sadly another covid
 - 2022 Mimi Reyburn - it's a W.I.P. - 70 potential partipants and hopefully 0 covids
 ```
 
